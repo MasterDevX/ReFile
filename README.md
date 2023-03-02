@@ -1,5 +1,5 @@
 ## ReFile
-This is an experimental project that allows to save regular files on plain paper. The project has no pratcical use because you can only store tiny files with a size up to few tens of kilobytes on a paper sheet, however it demonstrates that the idea actually works and the regular files can be stored in this way.
+This is an experimental project that allows to save regular files on plain paper. The project has no practical use because you can only store tiny files with a size up to few tens of kilobytes on a paper sheet, however it demonstrates that the idea actually works and the regular files can be stored in this way.
 
 ## Dependencies
 Before using ReFile you have to install required modules using pip:
